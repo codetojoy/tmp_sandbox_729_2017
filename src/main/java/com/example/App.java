@@ -5,6 +5,6 @@ public class App {
     private static final String VERSION_INFO = "V 1.1.0 master";
 
     public static void main(String[] args) {
-        System.out.println("TRACER HELLO_A from app. version: " + VERSION_INFO);
+        System.out.println("TRACER Greetings from app. version: " + VERSION_INFO);
     }
 }
